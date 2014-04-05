@@ -1,0 +1,48 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+#home {
+    display: none;
+}
+
+#history {
+    display: none;
+}
+
+#events {
+    /*display: none;*/
+}
+
+#beliefs {
+    display: none;
+}
+
+.theme-dropdown .dropdown-menu {
+  display: block;
+  position: static;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.jumbotron h1 {
+    font-family: 'Tangerine', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Tangerine', cursive;
+}
+
+.footer {
+    background-color: #eeeeee;
+    padding: 20px;
+}
+
+.copyright {
+    text-align: center;
+}
+
